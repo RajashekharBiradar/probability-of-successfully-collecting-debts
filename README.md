@@ -1,4 +1,5 @@
-![image](https://github.com/RajashekharBiradar/probability-of-successfully-collecting-debts/assets/89525741/633aad9a-6960-490c-b623-160dc16a71aa)# probability-of-successfully-collecting-debts
+# probability-of-successfully-collecting-debts
+ 
  Using Machine Learning to forecast the probability of successfully collecting debts by analyzing statute-barred status
  In the realm of debt collection, the ability to discern which accounts are statute-barred—thus potentially unrecoverable—holds immense significance.
  This project endeavors to develop a sophisticated machine-learning model aimed at accurately predicting the probability of successfully collecting debts.
